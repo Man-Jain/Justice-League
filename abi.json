@@ -1,0 +1,179 @@
+[
+	{
+		"constant": false,
+		"inputs": [
+			{
+				"name": "id",
+				"type": "string"
+			}
+		],
+		"name": "destribute",
+		"outputs": [],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"constant": false,
+		"inputs": [
+			{
+				"name": "yes",
+				"type": "bool"
+			},
+			{
+				"name": "id",
+				"type": "string"
+			}
+		],
+		"name": "prop_vote",
+		"outputs": [],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"constant": false,
+		"inputs": [
+			{
+				"name": "id",
+				"type": "string"
+			},
+			{
+				"name": "details",
+				"type": "string"
+			}
+		],
+		"name": "submit_project",
+		"outputs": [],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"constant": false,
+		"inputs": [
+			{
+				"name": "prop_id",
+				"type": "string"
+			},
+			{
+				"name": "id",
+				"type": "string"
+			}
+		],
+		"name": "submit_propsal",
+		"outputs": [],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"constant": false,
+		"inputs": [
+			{
+				"name": "id",
+				"type": "string"
+			},
+			{
+				"name": "vote_type",
+				"type": "bool"
+			}
+		],
+		"name": "vote",
+		"outputs": [],
+		"payable": true,
+		"stateMutability": "payable",
+		"type": "function"
+	},
+	{
+		"constant": true,
+		"inputs": [
+			{
+				"name": "id",
+				"type": "string"
+			}
+		],
+		"name": "get_bets",
+		"outputs": [
+			{
+				"name": "up",
+				"type": "uint256"
+			},
+			{
+				"name": "down",
+				"type": "uint256"
+			},
+			{
+				"name": "upamt",
+				"type": "uint256"
+			},
+			{
+				"name": "downamt",
+				"type": "uint256"
+			}
+		],
+		"payable": false,
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"constant": true,
+		"inputs": [
+			{
+				"name": "id",
+				"type": "string"
+			}
+		],
+		"name": "get_prop_votes",
+		"outputs": [
+			{
+				"name": "up",
+				"type": "uint256"
+			},
+			{
+				"name": "down",
+				"type": "uint256"
+			}
+		],
+		"payable": false,
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"constant": true,
+		"inputs": [],
+		"name": "send_count",
+		"outputs": [
+			{
+				"name": "ct",
+				"type": "uint256"
+			}
+		],
+		"payable": false,
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"constant": true,
+		"inputs": [
+			{
+				"name": "id",
+				"type": "string"
+			}
+		],
+		"name": "view_project",
+		"outputs": [
+			{
+				"name": "details",
+				"type": "string"
+			},
+			{
+				"name": "owner",
+				"type": "address"
+			}
+		],
+		"payable": false,
+		"stateMutability": "view",
+		"type": "function"
+	}
+]
