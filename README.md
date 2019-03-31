@@ -4,7 +4,7 @@ A decentralized platform for market research, using collective wisdom to shape t
 
 ## **Inspiration**
 
-We have witnessed the era of dawn and dusk of the ICOs. Most of the ICO investors doesnít have technical knack to see the completeness of a project by reading its Whitepaper. And with recent dumps in the market, ICOs have seen an all time low, main reason being trust. ìWisdom of crowdî whereas can change the current lookout. Justice League will change the lookout.
+We have witnessed the era of dawn and dusk of the ICOs. Most of the ICO investors doesn‚Äôt have technical knack to see the completeness of a project by reading its Whitepaper. And with recent dumps in the market, ICOs have seen an all time low, main reason being trust. ‚ÄúWisdom of crowd‚Äù whereas can change the current lookout. Justice League will change the lookout.
 
 
 ## **What it does?**
@@ -23,7 +23,7 @@ Solidity, Python, Flask
 
 </br>
 
-Through the concept of ì wisdom of crowdî, we seamlessly deployed smart contracts to create immutable, scalable and full proof economic JL model. Scaled it using matic network.
+Through the concept of ‚Äú wisdom of crowd‚Äù, we seamlessly deployed smart contracts to create immutable, scalable and full proof economic JL model. Scaled it using matic network.
 
 ## **Challenges we ran into?**
 
@@ -34,21 +34,27 @@ Through the concept of ì wisdom of crowdî, we seamlessly deployed smart contract
 
 While the platform roadmap is sketched out, key partnerships trust is going to be integral for the success of our deployment. Also, time management was key for our webapp. We spent too much time on the first view, which didn't leave much time for the rest, screwing our efficiency.
 
-## **Whatís the next move?**
+## **What‚Äôs the next move?**
 
-1. Down the road, Building Different Communityís construction.
+1. Down the road, Building Different Community‚Äôs construction.
 2. Upgrading JL Model to be more efficient. 
 
 ## **How it works?**
 
-A reputed peer with Reputation par ìThresholdî tickets a proposal. Anything is fair game, from success of ICO to next Presidential elections.
+A reputed peer with Reputation par ‚ÄúThreshold‚Äù tickets a proposal. Anything is fair game, from success of ICO to next Presidential elections.
 </br>
 Reviewing period of 30 days start. The 2nd Tier Reputed peer ^C, provide with their constructive criticism. </br>
-As Reviewing period ends, and Voting period starts. The peers, i.e. general users are provided with 1 ìupvoteî and 1 ìdownvoteî to consume on the reviews. This maintains the reputation of the reputed peers. </br>
+As Reviewing period ends, and Voting period starts. The peers, i.e. general users are provided with 1 ‚Äúupvote‚Äù and 1 ‚Äúdownvote‚Äù to consume on the reviews. This maintains the reputation of the reputed peers. </br>
 Then Voters select their choice, i.e. if they are positive or negative about this project. And they stake a certain amount on their choice. </br>
 Voting lines remain open for 20 days, every peer can only vote once excluding the Reputed peer who pushed the proposal.
 As Duration ends, contract report the winning outcome. </br> 
 All the peers, who voted for outcome are paid out from the contract according to JL Model.
 
+## **Team Members**
+
+- Abhimanyu Shekhawat
+- Manank Patni
+- Sachin Mittal 
+- Sanchay Mittal
 
 
